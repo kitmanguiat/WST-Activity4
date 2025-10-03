@@ -29,7 +29,7 @@ $(document).ready(function () {
     },
     submitHandler: function () {
       alert("✅ Registration successful! You can now log in.");
-      window.location.href = "login.html";
+      window.location.href = "index.html";
     }
   });
 });
